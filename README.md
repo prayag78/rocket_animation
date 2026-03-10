@@ -64,7 +64,7 @@ rocket_animation/
 - **Rendering**: Puppeteer + Canvas API (self-contained, no React build)
 - **Recording**: Puppeteer (headless Chrome)
 - **Conversion**: FFmpeg (frames → animated WebP)
-- **Automation**: GitHub Actions (daily cron)
+- **Automation**: GitHub Actions (weekly cron)
 - **Data**: [GitHub Contributions API](https://github-contributions-api.jogruber.de/)
 
 ## License
